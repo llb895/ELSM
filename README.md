@@ -78,7 +78,6 @@ For the sample-level resampled data, model predictions are performed using an ea
 cd /ELSM/model/
 python execution_cross.py "../sample_level_evaluation_strategy_result/" 
 ```
-<br>
 Similarly, this is applicable to independent validation.
 
 <a id="section5"></a>
