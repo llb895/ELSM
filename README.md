@@ -53,7 +53,7 @@ The ***sample_level_evaluation_strategy_result*** directory holds sampling-resam
 ## 3 Modality Evaluation
 ### Enter the model folder.
 ```
-cd ELSM/model/
+cd /ELSM/model/
 ```
 ### Execute the ***sample_level_evaluation_strategy_cross.py*** file.
 ```
@@ -63,6 +63,11 @@ The processed results will then be available in ***ELSM/sample_level_evaluation_
 
 <a id="section4"></a>
 ## 4 Model Prediction
+For the sample-level resampled data, model predictions are performed using an early-late fusion neural network.
+```
+cd /ELSM/model/
+python execution_cross.py "../sample_level_evaluation_strategy_result/" 
+```
 
 <a id="section5"></a>
 ## 5 Output Results
