@@ -13,8 +13,9 @@ Multi-omics cfDNA fragmentation patterns show promise as biomarkers for early ca
 | [3 Modality Evaluation](#section3) |
 | [4 Model Prediction](#section4) |
 | [5 Output Results](#section5) |
-| [6 References](#section6) |
-| [7 Citation](#section7) |
+| [6 Citation](#section6) |
+| [7 References](#section7) |
+
 
 <a id="section1"></a>
 ## 1 Environment
@@ -84,10 +85,10 @@ Similarly, this is applicable to independent validation.
 ## 5 Output Results
 The prediction results are stored in the ***result*** folder.
 
+
 <a id="section6"></a>
-## 6 References
-[^1]:D. Mathios, J.S. Johansen, S. Cristiano, J.E. Medina, J. Phallen, K.R. Larsen, D.C. Bruhm, N. Niknafs, L. Ferreira, V.J.N.c. Adleff, Detection and characterization of lung cancer using cell-free DNA fragmentomes, 12 (2021) 5060.
+## 6 Cite Us
 
 <a id="section7"></a>
-## 7 Cite Us
-
+## 7 References
+[^1]:D. Mathios, J.S. Johansen, S. Cristiano, J.E. Medina, J. Phallen, K.R. Larsen, D.C. Bruhm, N. Niknafs, L. Ferreira, V.J.N.c. Adleff, Detection and characterization of lung cancer using cell-free DNA fragmentomes, 12 (2021) 5060.
