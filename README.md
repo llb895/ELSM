@@ -45,6 +45,9 @@ project
    │   │
    │   │   ...
 ```
+The dataset directory contains raw sample data. 
+The model directory stores ELSM model code and related data processing tools. 
+The sample_level_evaluation_strategy_result directory holds sampling-resampled data.
 
 <a id="section6"></a>
 ## 6 References
