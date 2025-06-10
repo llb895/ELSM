@@ -88,7 +88,7 @@ The prediction results are stored in the ***result*** folder.
 
 <a id="section6"></a>
 ## 6 Cite Us
-If you use ELSM framework in your own studies, and work, please cite it by using the following:
+If you use **ELSM** framework in your own studies, and work, please cite it by using the following:
 ```
 @article{ELSM,
     title={Enhanced Early Cancer Detection via Multi-Omics cfDNA Fragmentation Integration Using an Early-Late Fusion Neural Network with Sample-Modality Evaluation},
