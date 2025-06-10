@@ -51,7 +51,6 @@ The ***sample_level_evaluation_strategy_result*** directory holds sampling-resam
 
 <a id="section3"></a>
 ## 3 Modality Evaluation
-
 ### Enter the model folder.
 ```
 cd ELSM/model/
@@ -61,6 +60,9 @@ cd ELSM/model/
 python sample_level_evaluation_strategy_cross.py "../dataset/10-fold-cross-validation/" "../sample_level_evaluation_strategy_result/"
 ```
 The processed results will then be available in ***ELSM/sample_level_evaluation_strategy_result/***.
+
+<a id="section3"></a>
+## 4 Model Prediction
 
 <a id="section6"></a>
 ## 6 References
