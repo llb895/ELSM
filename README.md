@@ -8,13 +8,13 @@ Multi-omics cfDNA fragmentation patterns show promise as biomarkers for early ca
 </div>
 
 ## Table of Contents
-| [1 Environment](#section1) |
-| [2 Preparation](#section2) |
-| [3 Modality Evaluation](#section3) |
-| [4 Model Prediction](#section4) |
-| [5 Output Results](#section5) |
-| [6 Citation](#section6) |
-| [7 References](#section7) |
+| [1 Environment](#section1) |<br>
+| [2 Preparation](#section2) |<br>
+| [3 Modality Evaluation](#section3) |<br>
+| [4 Model Prediction](#section4) |<br>
+| [5 Output Results](#section5) |<br>
+| [6 Citation](#section6) |<br>
+| [7 References](#section7) |<br>
 
 
 <a id="section1"></a>
