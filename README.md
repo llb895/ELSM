@@ -49,6 +49,11 @@ The ***dataset*** directory contains raw sample data. <br>
 The ***model*** directory stores ELSM model code and related data processing tools. <br>
 The ***sample_level_evaluation_strategy_result*** directory holds sampling-resampled data.<br>
 
+<a id="section3"></a>
+## 3 Modality Evaluation
+
+
+
 <a id="section6"></a>
 ## 6 References
 [^1]:D. Mathios, J.S. Johansen, S. Cristiano, J.E. Medina, J. Phallen, K.R. Larsen, D.C. Bruhm, N. Niknafs, L. Ferreira, V.J.N.c. Adleff, Detection and characterization of lung cancer using cell-free DNA fragmentomes, 12 (2021) 5060.
