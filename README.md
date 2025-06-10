@@ -35,10 +35,12 @@ project
    │
    └───sample_level_evaluation_strategy_result
    │   │
-   │   │   ...
+   │   │   ...    
+   │
    └───model
    │   │
    │   │   ...
+   │ 
    └───dataset
    │   │
    │   │   ...
