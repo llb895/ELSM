@@ -67,6 +67,8 @@ cd /ELSM/model/
 ```
 python sample_level_evaluation_strategy_cross.py "../dataset/10-fold-cross-validation/" "../sample_level_evaluation_strategy_result/"
 ```
+The path ***'../dataset/10-fold-cross-validation/'*** represents the source data storage location.
+The path ***'../sample_level_evaluation_strategy_result/'*** indicates the target storage address.
 The processed results will then be available in ***ELSM/sample_level_evaluation_strategy_result/***.<br>
 Similarly, this is applicable to independent validation.
 
@@ -78,7 +80,7 @@ For the sample-level resampled data, model predictions are performed using an ea
 cd /ELSM/model/
 python execution_cross.py "../sample_level_evaluation_strategy_result/" 
 ```
-The path ***../sample_level_evaluation_strategy_result/*** indicates the data storage location.
+The path ***'../sample_level_evaluation_strategy_result/'*** indicates the data storage location.
 Similarly, this is applicable to independent validation.
 
 <a id="section5"></a>
