@@ -52,7 +52,7 @@ The ***sample_level_evaluation_strategy_result*** directory holds sampling-resam
 <a id="section3"></a>
 ## 3 Modality Evaluation
 
-###First, enter the model folder.
+### First, enter the model folder.
 ```
 cd ELSM/model/
 ```
