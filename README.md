@@ -13,7 +13,7 @@ Multi-omics cfDNA fragmentation patterns show promise as biomarkers for early ca
 | [3 Modality Evaluation](#section3) |
 | [4 Model Prediction](#section4) |
 | [5 Output Results](#section5) |
-
+| [6 References](#section6) |
 
 <a id="section1"></a>
 ## 1 Environment
@@ -26,6 +26,10 @@ pip3 install torch torchvision torchaudio --index-url https://download.pytorch.o
 <a id="section2"></a>
 ## 2 Preparation
 In this study, we demonstrate the functionality of ELSM through a case study that performs independent validation and cross-validation based on 13 fragmentomic features from Mathios et al.’s independent dataset and the Mathios et al.’s LUCAS dataset.[^1]
+References
+
+<a id="section6"></a>
+## 6 Preparation
 [^1]:D. Mathios, J.S. Johansen, S. Cristiano, J.E. Medina, J. Phallen, K.R. Larsen, D.C. Bruhm, N. Niknafs, L. Ferreira, V.J.N.c. Adleff, Detection and characterization of lung cancer using cell-free DNA fragmentomes, 12 (2021) 5060.
 
 
