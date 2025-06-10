@@ -60,6 +60,7 @@ cd ELSM/model/
 ```
 python sample_level_evaluation_strategy_cross.py "../dataset/10-fold-cross-validation/" "../sample_level_evaluation_strategy_result/"
 ```
+The processed results will then be available in ***ELSM/sample_level_evaluation_strategy_result/***.
 
 <a id="section6"></a>
 ## 6 References
