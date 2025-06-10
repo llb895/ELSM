@@ -27,7 +27,7 @@ pip3 install torch torchvision torchaudio --index-url https://download.pytorch.o
 
 <a id="section2"></a>
 ## 2 Preparation
-In this study, we demonstrate the functionality of ELSM through a case study that performs independent validation and cross-validation based on 13 fragmentomic features from Mathios et al.’s independent dataset and the Mathios et al.’s LUCAS dataset.[^1]
+In this study, we demonstrate the functionality of ELSM through a case study that performs independent validation and cross-validation based on 13 fragmentomic features from Mathios et al.’s independent dataset and the Mathios et al.’s LUCAS dataset.[^1].
 ```
 project
 │   README.md
