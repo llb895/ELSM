@@ -57,7 +57,9 @@ The ***sample_level_evaluation_strategy_result*** directory holds sampling-resam
 cd ELSM/model/
 ```
 ### Execute the ***sample_level_evaluation_strategy_cross.py*** file.
-
+```
+python sample_level_evaluation_strategy_cross.py "../dataset/10-fold-cross-validation/" "../sample_level_evaluation_strategy_result/"
+```
 
 <a id="section6"></a>
 ## 6 References
