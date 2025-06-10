@@ -16,10 +16,9 @@ Multi-omics cfDNA fragmentation patterns show promise as biomarkers for early ca
 
 
 <a id="section1"></a>
-## 第一节内容
-这是第一节的内容。
-123123
-3
-21
-31
-2312
+## 1 Environment
+We used Python 3.7 for our experiments, and our CUDA version was 11.8. 
+To set up the environment:
+```
+pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
+```
