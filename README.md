@@ -61,15 +61,17 @@ cd /ELSM/model/
 python sample_level_evaluation_strategy_cross.py "../dataset/10-fold-cross-validation/" "../sample_level_evaluation_strategy_result/"
 ```
 The processed results will then be available in ***ELSM/sample_level_evaluation_strategy_result/***.
-
+Similarly, this is applicable to independent validation.
 <a id="section4"></a>
 ## 4 Model Prediction
+### In cross-validation
 For the sample-level resampled data, model predictions are performed using an early-late fusion neural network.
 ```
 cd /ELSM/model/
 python execution_cross.py "../sample_level_evaluation_strategy_result/" 
 ```
 
+Similarly, this is applicable to independent validation.
 <a id="section5"></a>
 ## 5 Output Results
 
